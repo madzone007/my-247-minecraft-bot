@@ -6,8 +6,8 @@ const mineflayer = require("mineflayer");
 
 // 3. YOUR JAVA SERVER DETAILS
 const botOptions = {
-  host: "pelican.fi.freemcserver.net",
-  port: 40496,
+  host: "144.76.58.217",
+  port: 31617,
   username: "madbot0.1",
   auth: "offline",
 };
