@@ -6,8 +6,8 @@ const mineflayer = require("mineflayer");
 
 // 3. YOUR JAVA SERVER DETAILS
 const botOptions = {
-  host: "144.76.58.217",
-  port: 31617,
+  host: "191.96.231.11",
+  port: 32358,
   username: "madbot0.1",
   auth: "offline",
 };
